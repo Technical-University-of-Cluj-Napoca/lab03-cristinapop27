@@ -1,8 +1,8 @@
 import pygame
 
 # some global constants
-WIDTH = 800
-HEIGHT = 800
+WIDTH = 700
+HEIGHT = 700
 
 # colors.
 # if you find it more suitable, change this dictionary to standalone constants like: RED = (255, 0, 0)
